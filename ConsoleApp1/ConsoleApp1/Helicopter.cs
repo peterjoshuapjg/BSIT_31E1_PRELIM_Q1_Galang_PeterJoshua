@@ -6,5 +6,4 @@ public class Helicopter : Vehicle, IFlyable, IDriveable
     {
         return "Flying in the sky.";
     }
-
 }
